@@ -1,1 +1,62 @@
+#EXTM3U
 
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR blue] [B]TDLS - Treze Dias Longe do Sol (2017)[/B] [/COLOR][COLOR gray] [/COLOR]
+0
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR yellow] TDLS - Episódio 01 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/KRxHIw2XRHc
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR yellow] TDLS - Episódio 02 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/95IC9DhpOtk
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR yellow] TDLS - Episódio 03 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/S-ytfLkHRDw
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR yellow] TDLS - Episódio 04 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/PtILxHVARJc
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR yellow] TDLS - Episódio 05 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/XS1AqJSDJ7I
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR yellow] TDLS - Episódio 06 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/6nkSKr7K3HU
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR yellow] TDLS - Episódio 07 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/rhMci6VVjJE
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR yellow] TDLS - Episódio 08 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/CQiXFxTrflM
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR yellow] TDLS - Episódio 09 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/ubwFKAe9fLw
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/13_OhALLJH.jpg",[COLOR yellow] TDLS - Episódio 10 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/OwCapBCxQec
+#EXTINF:0 tvg-logo="",[COLOR blue] [B]VIKINGS[/B] [/COLOR][COLOR gray] [/COLOR]
+0
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/22281956_740480629469304_7044154952648946413_n.jpg",[COLOR yellow] VKN - TP05 - EP 01 e 02 - The Departed [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/USq3D0HyeVM
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/22281956_740480629469304_7044154952648946413_n.jpg",[COLOR yellow] VKN - TP05 - EP 03 - Pátria [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/6I78I3FqeBI
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/22281956_740480629469304_7044154952648946413_n.jpg",[COLOR yellow] VKN - TP05 - EP 04 - O Plano [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/WZXZNK9JZIQ
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/22281956_740480629469304_7044154952648946413_n.jpg",[COLOR yellow] VKN - TP05 - EP 05 - O Prisioneiro [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/X4bWyKLTcHM
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/22281956_740480629469304_7044154952648946413_n.jpg",[COLOR yellow] VKN - TP05 - EP 06 - A Mensagem [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/YicfkkQ6BmA
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/22281956_740480629469304_7044154952648946413_n.jpg",[COLOR yellow] VKN - TP05 - EP 07 - Lua Cheia [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/2zRGivAevlw
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/22281956_740480629469304_7044154952648946413_n.jpg",[COLOR yellow] VKN - TP05 - EP 08 - A Piada [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/bzveXwaVC2U/
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/22281956_740480629469304_7044154952648946413_n.jpg",[COLOR gray] VKN - TP05 - EP 09 - Uma História Simples [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/7t8YqIeY9Ic/
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/22281956_740480629469304_7044154952648946413_n.jpg",[COLOR gray] VKN - TP05 - EP 10 [/COLOR][COLOR gray] [/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=
+#EXTINF:0 tvg-logo="",[COLOR blue] [B]MR. ROBOT[/B] [/COLOR][COLOR gray] [/COLOR]
+0
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/mr_robot_3.jpg",[COLOR yellow] TP03 - EP01 - Eps3.0_power-Saver-Mode.H [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/noWE5MflLdg
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/mr_robot_3.jpg",[COLOR yellow] TP03 - EP02 - Eps3.1_undo.Gz [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/ShpGVpfA0xo
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/mr_robot_3.jpg",[COLOR yellow] TP03 - EP03 - Eps3.2_legacy.So [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/fpl-xNMMS9s
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/mr_robot_3.jpg",[COLOR yellow] TP03 - EP04 - Eps3.3_metadata.Par2 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/vmiWTBOUZxE
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/mr_robot_3.jpg",[COLOR yellow] TP03 - EP05 - Eps3.4_runtime-Error.R00 [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/eS6pkPbFssI
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/mr_robot_3.jpg",[COLOR yellow] TP03 - EP06 - Eps3.5_kill-Process.Inc [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/0pEZxp4Izok
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/mr_robot_3.jpg",[COLOR yellow] TP03 - EP07 - Eps3.6_fredrick+Tanya.Chk [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/f8Lkjmw6Vnk
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/mr_robot_3.jpg",[COLOR yellow] TP03 - EP08 - Eps3.7_dont-Delete-Me.Ko [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/c1AP7pz4d2g
