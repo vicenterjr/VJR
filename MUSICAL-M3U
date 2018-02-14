@@ -1,1 +1,82 @@
+#EXTM3U
 
+#EXTINF:0 tvg-logo="http://sociedadepublica.com.br/wp-content/uploads/2017/02/who2.jpg",[COLOR yellow] The Who ao vivo - Rock in Rio 2017 [/COLOR][COLOR gray] | OPENLOAD - 720p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/embed/CBHRu756K1I
+#EXTINF:0 tvg-logo="http://www.gstatic.com/tv/thumb/movieposters/8527/p8527_p_v8_aa.jpg",[COLOR yellow] HOLD ON [/COLOR][COLOR gray] | ESTREAM - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://estream.to/embed-wmpdnfiz1qva.html
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/ee/La_Bamba.jpg/230px-La_Bamba.jpg",[COLOR yellow] La Bamba - 1987 - 108min [/COLOR][COLOR gray] | OPENLOAD - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/4PFKoY36kcY/
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/91/91/23/20169426.jpg",[COLOR yellow] The Wonders - O Sonho Não Acabou - 1996 - 108min [/COLOR][COLOR gray] | OK.RU - 0p[/COLOR]
+plugin://plugin.program.chrome.launcher/?kiosk=no&mode=showSite&stopPlayback=no&url=https://m.ok.ru/video/33961347761
+#EXTINF:0 tvg-logo="",[COLOR red] [B]C O L E C A O   -   E L V I S   P R E S L E Y[/B] [/COLOR][COLOR gray] [/COLOR]
+0
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2016/10/esse_jQJxWEY.jpg",[COLOR yellow]  Ama-me Com Ternura  (Love Tender) - 1965 - 89min [/COLOR][COLOR gray] | YOUTUBE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://www.youtube.com/watch?v=adByxUM5-sY
+#EXTINF:0 tvg-logo="http://www.acasadocolecionador.com.br/image/cache//catalog/A%20Mulher%20que%20Eu%20Amo-800x800.jpg",[COLOR yellow] LOVING YOU (A Mulher Que Eu Amo) - 1957 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDM1Vyb2NsNzBJT2M/view
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/92/95/95/20227454.jpg",[COLOR yellow] JAILHOUSE ROCK (O Prisioneiro do Rock 'n' Roll) - 1957 (LEG) [/COLOR][COLOR gray] | OPENLOAD - 720p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/_NUMiorn_iY/
+#EXTINF:0 tvg-logo="http://www.acasadocolecionador.com.br/image/cache//catalog/King%20Creole-800x800.jpg",[COLOR yellow] KING CREOLE (Balada Sangrenta) - 1958 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDYmdEcjA4NV9kWnc/preview
+#EXTINF:0 tvg-logo="",[COLOR gray] THE FRANK SINATRA TIMEX SPECIAL - WELCOME HOME ELVIS - 1960 - OFF [/COLOR][COLOR gray] [/COLOR]
+0
+#EXTINF:0 tvg-logo="http://www.spacetrek66.com.br/imagem/index/4190042/G/saudades_de_um_pracinha.jpg",[COLOR yellow] G.I. BLUES (Saudades de um Pracinha) - 1960 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDNl9CWndiTTRvcHM/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/capas-estrela-de-fogo.jpg",[COLOR yellow] FLAMING STAR (Estrela de Fogo) 1960 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDZXRoUDJPNnEwcms/view
+#EXTINF:0 tvg-logo="https://cdn.awsli.com.br/600x700/377/377576/produto/12806096/dc7ba35485.jpg",[COLOR yellow] WILD IN THE COUNTRY (Coração Rebelde) 1961 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://docs.google.com/uc?id=0B_CfQsH0cvKDN2NSb215RFp0R1E&export=download
+#EXTINF:0 tvg-logo="http://www.spacetrek66.com.br/imagem/index/6123338/G/feitio_havaiano.jpg",[COLOR yellow] BLUE HAWAII (Feitiço Havaiano) - 1961 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDejlNcWk2VGg5T00/preview
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/08/em-cada-sonho-um-amor_t23950_1.jpg",[COLOR yellow] FOLLOW THAT DREAM (Em Cada Sonho Um Amor) - 1962 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDWTFGRl9QUmRPVWM/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/05/talhado-para-campeao_t3587_1.jpg",[COLOR yellow] KID GALAHAD (Talhado Para Campeão) - 1962 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDNUp6VzB3ODFrbXM/preview
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9a/Girls%2C_girls%2C_girls.jpg/250px-Girls%2C_girls%2C_girls.jpg",[COLOR yellow] GIRLS! GIRLS! GIRLS! (Garotas e Mais Garotas) -1962 [/COLOR][COLOR gray] | VIMEO - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://vimeo.com/62000924
+#EXTINF:0 tvg-logo="http://cinema10.com.br/upload/filmes/filmes_5330_Loiras.jpg",[COLOR yellow] IT HAPPENED AT THE WORLD'S FAIR (Loiras, Morenas e Ruivas) - 1963 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDcGpiTXJXUGhiQlE/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2013/06/o-seresteiro-de-acapulco_t3218.jpg",[COLOR yellow] FUN IN ACAPULCO (O Seresteiro de Acapulco) - 1963 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDZTQzM0dfU1VyaUk/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2010/11/0ba1b6b7447d8150f9742c27d24dcac9.jpg",[COLOR yellow] KISSIN' COUSINS (Com Caipira Não se Brinca) - 1964 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDSHN4UlZWRWRzLUE/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2009/03/9f0af9d12f1d6ee1350c49fce0733008.jpg",[COLOR yellow] VIVA LAS VEGAS (Amor À Toda Velocidade) - 1964 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDN1FMeUNKSlhBNnM/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/05/parque-das-ilusoes_t4612.jpg",[COLOR yellow] ROUSTABOUT (Carrossel de Emoções) - 1964 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDc1pyRUJBQVp5NUk/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2010/05/f41a3cfe8e144e14531f5b5cdc00574f.jpg",[COLOR yellow] GIRL HAPPY (Louco Por Garotas) - 1965 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDc1o4ZEEtczhlZ0k/preview
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/06/elvis-o-cavaleiro-romantico_t25904_1.jpg",[COLOR yellow] TICKLE ME (Cavaleiro Romântico) - 1965 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDb3dDSENMbmZ6R1k/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2009/03/941fc44a5b538dfeaf50ebf29bb840b5.jpg",[COLOR yellow] HARUM SCARUM (Feriado No Harém) - 1965 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDdmVRUG1Wb3FxVkk/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2015/06/entre-a-loira-e-a-ruiva_t31610.jpg",[COLOR yellow] FRANKIE AND JOHNNY (Entre a Loura e a Ruiva) - 1966 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDZjhsbEhoOF94Tjg/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/09/elvis-no-paraiso-do-havai_t3003_1.jpg",[COLOR yellow] PARADISE, HAWAIIAN STYLE (No Paraíso do Havaí) - 1966 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDT1Z1b0txakNjOWc/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2013/10/minhas-tres-noivas_t23952.jpg",[COLOR yellow] SPINOUT (Minhas Três Noivas) - 1966 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDUnZ2ZFcxMU1NcUU/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/MV5BNDkxMTM1ZjYtMTYxYy00OTZiLTgzMjAtMGE0OTZhNTc1ZTdjL2ltYWdlXkEyXk_CJHges9.jpg",[COLOR yellow] EASY COME, EASY GO (Meu Tesouro É Você) - 1967 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDaFlKX0s3cGFjS1k/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/05/250px-Double_trouble.jpg",[COLOR yellow] DOUBLE TROUBLE (Canções e Confusões) - 1967 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDYUV6Unl0QS1uY0U/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/01/o-barco-do-amor_t23954_2.jpg",[COLOR yellow] CLAMBAKE (O Barco do Amor) - 1967 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDcF83Q01uUlBhVE0/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/04/joe-e-muito-vivo_t67414.jpg",[COLOR yellow] STAY AWAY, JOE (Joe É Muito Vivo) - 1968 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDdVpJWmhhRXAzeXM/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/08/1a75645e9a674c67d7e8bcc32c586a6a.jpg",[COLOR yellow] SPEEDWAY (O Bacana do Volante) - 1968 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDb1ZSblpUdTgzWUU/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2010/08/ed7513f03cca8362842ce2f31c220234.jpg",[COLOR yellow] LIVE A LITTLE, LOVE A LITTLE (Viva Um Pouquinho, Ame Um Pouquinho) - 1968 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDV1NGMFduTU9fU1E/view
+#EXTINF:0 tvg-logo="",[COLOR gray] ELVIS (NBC-TV SPECIAL) ['68 COMEBACK SPECIAL] - 1968 - OFF [/COLOR][COLOR gray] [/COLOR]
+0
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2013/03/8d38b56813359d7a784ccab393faeb05_1.jpg",[COLOR yellow] CHARRO! (Charro!) - 1969 [/COLOR][COLOR gray] | OPENLOAD - 720p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/lZeDFgFSNFE/
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2009/03/38936f8c56e8f97b60803a8202f9a597.jpg",[COLOR yellow] THE TROUBLE WITH GIRLS (AND HOW TO GET INTO IT) (Lindas Encrencas: As Garotas) - 1969 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDMkdxeS14NzFMbXM/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2012/10/0ad56d47b0e7f59120f1ca04ff2f2057.jpg",[COLOR yellow] CHANGE OF HABIT (Ele e as Três Noviças) - 1969 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDTVEzLXl0ampKZzA/view
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2010/08/d5a66370c688401c94c111ab4d0764f1.jpg",[COLOR yellow] THAT'S THE WAY IT IS (Elvis É Assim) - 1970 [/COLOR][COLOR gray] | OK.RU - 0p[/COLOR]
+plugin://plugin.program.chrome.launcher/?kiosk=no&mode=showSite&stopPlayback=no&url=https://m.ok.ru/video/259894741691
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2010/10/7bda528f88239a036f56706d856410c0.jpg",[COLOR yellow] ELVIS ON TOUR (Elvis Triunfal) - 1972 [/COLOR][COLOR gray] | GDRIVE - 480p[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://drive.google.com/file/d/0B_CfQsH0cvKDbVVndGJCTEEyUTg/view
