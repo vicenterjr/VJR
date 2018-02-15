@@ -15,7 +15,7 @@ plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/
 #EXTINF:0 tvg-logo="http://image.tmdb.org/t/p/original/57gQoF6TiohyZQCVuniiM31zvd1.jpg",[COLOR yellow] Invictus (2009) - 133min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/miqH39a4btA/Invictus_%282009%29_-_1080p_%28Dublado%29.mp4
 #EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/03/43/19884435.jpg",[COLOR yellow] O céu de outubro (1999) - 107min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/xqR9nQpUWkY/O_C%C3%A9u_de_Outubro_%281999%29_-_%28Dublado%29.mp4
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/xqR9nQpUWkY/
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-JvVEkKIjtQ0/UERdP-6002I/AAAAAAAAAm4/Ho9ZwVhnl4M/s1600/os-canhoes-de-navarone-1961.jpg",[COLOR yellow] Os Canhões de Navarone (1961) - 158min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/oJR9JvE6Fbo/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f5/Jerry_Maguire.jpg",[COLOR yellow] Jerry Maguire - A Grande Virada (1996) - 139min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
