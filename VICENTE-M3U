@@ -16,6 +16,8 @@ plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/miqH39a4btA/Invictus_%282009%29_-_1080p_%28Dublado%29.mp4
 #EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/03/43/19884435.jpg",[COLOR yellow] O céu de outubro (1999) - 107min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/xqR9nQpUWkY/
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/03/43/19884435.jpg",[COLOR yellow] O céu de outubro (1999) - 107min [/COLOR][COLOR gray] | MINHATECA[/COLOR]
+http://s6027.minhateca.com.br/File.aspx?e=RiEMYKf24s5_1Svx6-re7cD5UzsucgAM6H1H3eAkmOtmUehp9K_Jn0Wd5-u9rmzVMnecpU_AW3rk5Wo2Tjn3hkg450NUyuG5_20VyQA37fZgJJLwBOwf2nvLGoCQhQswE0UelCz9IHSHG1QBhgaFZK8Nx1Z3xv5o-1ryC2_nJ8tHUI-0cz-HkHAcDPTug6ph6VcpZVvZeCZrrxX3ZDh30PBy-RDpQfnQ6bbYQt49QfI&pv=2
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-JvVEkKIjtQ0/UERdP-6002I/AAAAAAAAAm4/Ho9ZwVhnl4M/s1600/os-canhoes-de-navarone-1961.jpg",[COLOR yellow] Os Canhões de Navarone (1961) - 158min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/oJR9JvE6Fbo/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f5/Jerry_Maguire.jpg",[COLOR yellow] Jerry Maguire - A Grande Virada (1996) - 139min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
