@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="",JEANNIE É UM GÊNIO - 1ª TEMPORADA
-#EXTINF:0 tvg-logo="http://d2fvaoynuecth8.cloudfront.net/assets/01290/produtos/355/seriados-jeannieeumgenio1temp2.jpg",1ª Temp. - Ep 01 - Um Gênio Pousou em Minha Vida
-plugin://plugin.video.playthis/?mode=play&player=false&path=http://www.dailymotion.com/video/x52015a
+0
 #EXTINF:0 tvg-logo="http://d2fvaoynuecth8.cloudfront.net/assets/01290/produtos/355/seriados-jeannieeumgenio1temp2.jpg",1ª Temp. - Ep 01 - Um Gênio Pousou em Minha Vida
 plugin://plugin.video.playthis/?mode=play&player=false&path=http://www.dailymotion.com/video/x52015a
 #EXTINF:0 tvg-logo="http://d2fvaoynuecth8.cloudfront.net/assets/01290/produtos/355/seriados-jeannieeumgenio1temp2.jpg",1ª Temp. - Ep 02 - Mercado Persa
