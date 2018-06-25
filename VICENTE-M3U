@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:0 tvg-logo="https://ww.premiumlinkgenerator.com/data/hosts/openload_large.png",[COLOR red] AUTORIZAÇÃO OPENLOAD [/COLOR][COLOR gray] [/COLOR]
 plugin://plugin.program.chrome.launcher/?kiosk=yes&mode=showSite&stopPlayback=yes&url=https://olpair.com/
 #EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/01/54040c90bcb605070217f1825de6a2be.jpg",[COLOR yellow] O Gigante de Ferro (1999) - 86min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
@@ -12,12 +11,10 @@ plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/pV60V32tpno/
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-VJ7Dehkd_tw/Um-0AV8x4QI/AAAAAAAAEv4/dOpzTUQaqQY/s1600/O+Resgate+do+Soldado+Ryan.jpg",[COLOR yellow] O Resgate do Soldado Ryan (1998) - 169min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/1S_dujRb9jo/
-#EXTINF:0 tvg-logo="http://image.tmdb.org/t/p/original/57gQoF6TiohyZQCVuniiM31zvd1.jpg",[COLOR yellow] Invictus (2009) - 133min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/miqH39a4btA/
+#EXTINF:0 tvg-logo="http://image.tmdb.org/t/p/original/57gQoF6TiohyZQCVuniiM31zvd1.jpg",[COLOR yellow] Invictus (2009) - 133min [/COLOR][COLOR gray] | REDECANAIS[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/INVCT.mp4
 #EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/03/43/19884435.jpg",[COLOR yellow] O céu de outubro (1999) - 107min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/xqR9nQpUWkY/
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/03/43/19884435.jpg",[COLOR yellow] O céu de outubro (1999) - 107min [/COLOR][COLOR gray] | MINHATECA[/COLOR]
-http://s6027.minhateca.com.br/File.aspx?e=RiEMYKf24s5_1Svx6-re7cD5UzsucgAM6H1H3eAkmOtmUehp9K_Jn0Wd5-u9rmzVMnecpU_AW3rk5Wo2Tjn3hkg450NUyuG5_20VyQA37fZgJJLwBOwf2nvLGoCQhQswE0UelCz9IHSHG1QBhgaFZK8Nx1Z3xv5o-1ryC2_nJ8tHUI-0cz-HkHAcDPTug6ph6VcpZVvZeCZrrxX3ZDh30PBy-RDpQfnQ6bbYQt49QfI&pv=2
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/xqR9nQpUWkY
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-JvVEkKIjtQ0/UERdP-6002I/AAAAAAAAAm4/Ho9ZwVhnl4M/s1600/os-canhoes-de-navarone-1961.jpg",[COLOR yellow] Os Canhões de Navarone (1961) - 158min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/oJR9JvE6Fbo/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f5/Jerry_Maguire.jpg",[COLOR yellow] Jerry Maguire - A Grande Virada (1996) - 139min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
@@ -244,6 +241,10 @@ plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/glQGvGaUv-I/
 #EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/01/Esquadr%C3%A3o_Suicida_iTunes.jpg",[COLOR yellow] Esquadrão Suicida (2016) - 123min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/cHzHH1lo8yg/
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2015/08/sicario-terra-de-ninguem_t99816_N6EVMJR.jpg",[COLOR yellow] Sicario: Terra de Ninguém (2015) - 121min [/COLOR][COLOR gray] | REDECANAIS[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://rc-v1.filmesonline.top/RedeCanais/RCFServer2/ondemand/SCROTRDNGM.mp4
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2015/10/ronaldo_tNone.jpg",[COLOR yellow] Ronaldo (2015)- 102min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/LTciQYBYyfk/Ronaldo.2015.720p.WEB-DL.DD5.1.X264-RK.mp4
 #EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/07/maze-runner-correr-ou-morrer_t64005_8.jpg",[COLOR blue] [B]COLECAO: MAZE RUNNER[/B] [/COLOR][COLOR gray] [/COLOR]
 0
 #EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/07/maze-runner-correr-ou-morrer_t64005_42.jpg",[COLOR yellow] Maze Runner: Correr ou Morrer (2014) - 112min [/COLOR][COLOR gray] | MINHATECA[/COLOR]
@@ -258,7 +259,6 @@ http://s8568.minhateca.com.br/File.aspx?e=rzah7P69N-79hihs1OddKNA5p6Bz9_OzO_aig0
 http://s7037.minhateca.com.br/File.aspx?e=CLclIcspj9-q2MdgpvdMxOPoL8u7z281NERTcKjvkqrffGNs14VE5MaRdn6epwsJX7akQTb2HtwoCbHx2bcNCitpmax64jbm-j-P-1pbl9uceW-_b342rD-nefAg_6YfR67ZRt4pcF5n_fplpB2caiMRooS66sXuZ6WSHx42E2W5-IjQHKHoD0OhSxPeaj3M6RixYX7RPd9V2tt_w2Cfxo3SY-XUXXBr4yX5j73NlSE&pv=2
 #EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/07/8de443b67d507c54e3a08a31b388fd4b.jpg",[COLOR yellow] Predadores (2010) - 106min [/COLOR][COLOR gray] | MINHATECA[/COLOR]
 http://s7966.minhateca.com.br/File.aspx?e=IBLl7gKWWzdmZc6CgHmIK2YELnUjHFRf1cOMe_RMqLzZVqbEn52R6N7gI91HiPra5A5Tir5PQDLeDXxlmj4bi1yP9wNxPPg0escPlTaGj9Q9CNGS7xMxLVGacfgKG0Fl8jGieaAU7yXlIaH-S67qm0468dkiV8NIrTqutJbvAWjjibYVlnQKxBcekoHRhMYT&pv=2
-
 #EXTINF:0 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/166/46582166.jpg",[COLOR blue] [B]COLECAO: ALIEN[/B] [/COLOR][COLOR gray] [/COLOR]
 0
 #EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/05/14/21/14/504650.jpg",[COLOR yellow] Alien: O Oitavo Passageiro - 1979 - 117min [/COLOR][COLOR gray] | 1080p - OPENLOAD[/COLOR]
@@ -337,4 +337,3 @@ plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/OY0nIMoP3w0/
 #EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/12/09/15/31/492533.jpg",[COLOR yellow] O Hobbit: A Batalha dos Cinco Exércitos (2014) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/u1ggtnMQhuY/
-
