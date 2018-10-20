@@ -1,11 +1,12 @@
-#EXTM3U
+#EXTINF:0 tvg-logo="https://ww.premiumlinkgenerator.com/data/hosts/openload_large.png",[COLOR red] AUTORIZAÇÃO OPENLOAD [/COLOR][COLOR gray] [/COLORugin://plugin.program.chrome.launcher/?kiosk=yes&mode=showSite&stopPlayback=yes&url=https://olpair.com/EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/01/54040c90bcb605070217f1825de6a2be.jpg",[COLOR yellow] O Gigante de Ferro (1999) - 86min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]#EXTM3U
 #EXTINF:0 tvg-logo="https://ww.premiumlinkgenerator.com/data/hosts/openload_large.png",[COLOR red] AUTORIZAÇÃO OPENLOAD [/COLOR][COLOR gray] [/COLOR]
 plugin://plugin.program.chrome.launcher/?kiosk=yes&mode=showSite&stopPlayback=yes&url=https://olpair.com/
-#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/01/54040c90bcb605070217f1825de6a2be.jpg",[COLOR yellow] O Gigante de Ferro (1999) - 86min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/01/54040c90bcb605070217f1825de6a2be.jpg",[COLOR yellow] Menina de ouro [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/KfrAbbxygJI
 #EXTINF:0 tvg-logo="http://www.cafecomfilme.com.br/media/k2/items/cache/00908ae81f682520916a87e6d06e7322_XL.jpg",[COLOR yellow] Doze Homens e uma Sentença (1957) - 96min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/T1dYfh8fb4A/
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/5d/f9/34/5df93442364d4a74cb74dee142ba2db5.jpg",[COLOR yellow] Baahubali 2 - A Conclusão (2017) - 168min - LEG [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/5d/f9/34/5df93442364d4a74cb74dee142ba2db5.jpg",[COLOR yellow] Baahubali 2 - A Conclusão (2017) - 168min - LEG [/COLOR][COLOR gray] | OPENLOAD[/COLOR]#EXTM3U
+
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/WF358JRcWcs/
 #EXTINF:0 tvg-logo="http://www.ccine10.com.br/wp-content/uploads/2013/08/Imperio-do-Sol.jpg",[COLOR yellow] Império do Sol (1987) - 152min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/pV60V32tpno/
@@ -13,8 +14,7 @@ plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/1S_dujRb9jo/
 #EXTINF:0 tvg-logo="http://image.tmdb.org/t/p/original/57gQoF6TiohyZQCVuniiM31zvd1.jpg",[COLOR yellow] Invictus (2009) - 133min [/COLOR][COLOR gray] | REDECANAIS[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://rc-v2.filmesonline.top/RedeCanais/RCFServer4/ondemand/INVCT.mp4
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/03/43/19884435.jpg",[COLOR yellow] O céu de outubro (1999) - 107min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/xqR9nQpUWkY
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/87/03/43/19884435.jpg",[CO
 #EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-JvVEkKIjtQ0/UERdP-6002I/AAAAAAAAAm4/Ho9ZwVhnl4M/s1600/os-canhoes-de-navarone-1961.jpg",[COLOR yellow] Os Canhões de Navarone (1961) - 158min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/oJR9JvE6Fbo/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f5/Jerry_Maguire.jpg",[COLOR yellow] Jerry Maguire - A Grande Virada (1996) - 139min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
@@ -46,7 +46,7 @@ plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/
 #EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/96/98/86/20500637.jpg",[COLOR yellow] Apocalypse Now (1979) - 153 min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/nKOzwXedSrE/
 #EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/94/25/76/20314404.jpg",[COLOR yellow] Filhos da Esperança (2006) - 109min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/mWhk7QTVfnc/
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/mWhk7QTVfnc/         
 #EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/237/21023761_20130731180639879.jpg",[COLOR yellow] O Abrigo (2011) - 121min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/x4coDLu_46o/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/58/Donnie_Darko.jpg",[COLOR yellow] Donnie Darko (2001) - 113min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
@@ -147,7 +147,7 @@ plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/ozmtN3ZxR_M/
 #EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/11/Capturar.PNG",[COLOR yellow] O Poder e o Impossível (2017) - 97min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/YQ4wwEBsagk/
-#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/1080x1620_1508861947.jpg",[COLOR yellow] Pelé: O Nascimento de uma Lenda (2016) - 107min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/10/1080x1620_1508861947.jpg",[COLOR yellow] Pelé: O Nascimento de uma Lenda (2016) - 107
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/-Aa5y0EXWJ4/
 #EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2016/07/swallows-and-amazons_t208895.jpg",[COLOR yellow] Andorinhas e Amazonas (2016) - 97min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/1C5BD0RvpqE/
@@ -185,12 +185,10 @@ plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/_WPpRkWNp-U/
 #EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/04/d4efb4c8b4e94da796f4bdeab07e9427.jpg",[COLOR yellow] A Fuga das Galinhas (2000) - 84min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/NPJQhgKyUYE/
-#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2009/03/c8e8096f840cc9c4f856e5a4384211e0.jpg",[COLOR yellow] As Cinco Pessoas Que Você Encontra no Céu (2004) - 160min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2009/03/c8e8096f840cc9c4f856e5a4384211e0.jpg",[COLOR yellow] As Cinco Pessoas Que Você Encontra no Céu (2004) - 160min [/COLOR][COLOR gray] | OPENLOAD[/COLOR
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/-xLCYTMxulc/
-#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/20304486.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",[COLOR yellow] A Origem dos Guardiões (2012) - 97min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/ChAfNV5Mxso/
-#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/09/whiplash-em-busca-da-perfeicao_t90046.jpg",[COLOR yellow] Whiplash: Em Busca da Perfeição (2014) - 106min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/l3D-PlTMBGc/
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2017/09/20304486.jpg-r_1920_1080-f_jpg-q_x-xxyxx.jpg",[COLOR yellow] A Origem dos Guardiões (2012) - 97min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/ChAfNV5Mxso/
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2014/09/whiplash-em-busca-da-perfeicao_t90046.jpg",[COLOR yellow] Whiplash: Em Busca da Perfeição (2014) - 106min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/l3D-PlTMBGc/
 #EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/02/e4edbc1fa0a69706e11b85650a7b9087.jpg",[COLOR yellow] Uma manhã gloriosa (2010) - 107min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/b-mZ2n2x7kY/
 #EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/06/61ea082207fa29b6bafcc70e0363cbfc.jpg",[COLOR yellow] Homens de Honra (2000) - 129min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
@@ -297,43 +295,21 @@ plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/embed/v0ko1PIptmA/
 #EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/087/21008712_20130527200258144.jpg",[COLOR yellow] The Wolverine (2013) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/qpVccn2jWns/
-#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/05/08/22/33/194334.jpg",[COLOR yellow] X-Men: Dias de um Futuro Esquecido (2014) - 131min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/SV3rJcEUoBE/
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/01/28/19/55/412201.jpg",[COLOR yellow] Deadpool (2016) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/uQe7s_D4Rf8/
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/04/13/16/18/275648.jpg",[COLOR yellow] X-Men: Apocalipse (2016) - 143min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/14/05/08/22/33/194334.jpg",[COLOR yellow] X-Men: Dias de um Futuro Esquecido (2014) - 131min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/SV3rJcEUoBE/#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/01/28/19/55/412201.jpg",[COLOR yellow] Deadp
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/04/13/16/18/275648.jpg",[#EXTM3U
+#EXTINF:0 tvg-logo="https://ww.premiumlinkgenerator.com/data/hosts/openload_large.png",[COLOR red] AUTORIZAÇÃO OPENLOAD [/COLOR][COLOR gray] [/COLOR]
+plugin://plugin.program.chrome.launcher/?kiosk=yes&mode=showSite&stopPlayback=yes&url=https://olpair.com/
+#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2011/01/54040c90bcb605070217f1825de6a2be.jpg",[COLOR yellow] Menina de ouro [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/embed/SjA0y7yO_SA
+
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/h6UmsT-gjrY/
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/10/05/19/59/363613.jpg",[COLOR yellow] Logan (2017) - 137min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/Joyrd_Aee_I/
-#EXTINF:0 tvg-logo="http://www.ocamundongo.com.br/wp-content/uploads/2017/08/piratas-do-caribe-5-colecao-dvd-camundongo.jpg",[COLOR blue] [B]COLECAO: PIRATAS DO CARIBE[/B] [/COLOR][COLOR gray] [/COLOR]
-0
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/02/06/15/11/493568.jpg",[COLOR yellow] A Maldição do Pérola Negra (2003) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/4B9cHgvgrQI/
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/94/12/24/20304627.jpg",[COLOR yellow] O Baú da Morte (2006) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/oxzQ1swDEnQ/
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/193/21019383_20130712225426941.jpg",[COLOR yellow] No Fim do mundo (2007) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/dSx0lxPDq7c/
-#EXTINF:0 tvg-logo="https://cdn.fstatic.com/media/movies/covers/2015/02/piratas-do-caribe-navegando-em-aguas-misteriosas_t10032.jpg",[COLOR yellow] Navegando em Águas Misteriosas (2011) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/ZekhHTJWKuM/
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/17/03/02/16/02/262397.jpg",[COLOR yellow] A Vingança de Salazar (2017) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/siR8isLPK5A/
-#EXTINF:0 tvg-logo="https://images.livrariasaraiva.com.br/imagemnet/imagem.aspx/?pro_id=4382744&qld=90&l=430&a=-1",[COLOR blue] [B]COLECAO: O SENHOR DOS ANÉIS[/B] [/COLOR][COLOR gray] [/COLOR]
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/16/10/05/19/59/363613.jpg"gem.aspx/?pro_id=4382744&qld=90&l=430&a=-1",[COLOR blue] [B]COLECAO: O SENHOR DOS ANÉIS[/B] [/COLOR][COLOR gray] [/COLOR]
 0
 #EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/92/91/32/20224832.jpg",[COLOR yellow] O Senhor dos Anéis: A Sociedade do Anel (2001) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/vJrNT70Lx5U/
 #EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/92/34/89/20194741.jpg",[COLOR yellow] O Senhor dos Anéis: As Duas Torres (2002) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/TWV7WVqAvxc
-#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/92/91/47/20224867.jpg",[COLOR yellow] O Senhor dos Anéis: O Retorno do Rei (2003) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
+#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/medias/nmedia/18/92/91/47/20224867.jpg",[COLOR yellow] O Senhor dos Anéis: O Retorno do Rei (2003) [/COLOR][COLOR gray] | OPENLOAD[/COLOR
 plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/JGXLUIYV7xQ
 #EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/07/14/16/27/473077.jpg",[COLOR yellow] O Senhor dos Anéis (1978) - 132min [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/embed/zczFj886ULQ/
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/15/07/14/16/27/473077.jpg",[COLOR yellow] O Senhor dos Anéis (1978) - 132min  [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/9BDFi2s2E28/
-#EXTINF:0 tvg-logo="https://static.fnac-static.com/multimedia/Images/PT/NR/8f/02/0d/852623/1507-1/tsp20150402140327/Trilogia-O-Hobbit-Blu-ray-3D-2D.jpg",[COLOR blue] [B]COLECAO: O HOBBIT[/B] [/COLOR][COLOR gray] [/COLOR]
-0
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/medias/nmedia/18/91/86/25/20180397.jpg",[COLOR yellow] O Hobbit: Uma Jornada Inesperada (2012) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/0BBVj7eSapo/
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/210/571/21057125_20131112201221324.jpg",[COLOR yellow] O Hobbit: A Desolação de Smaug (2013) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/OY0nIMoP3w0/
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/14/12/09/15/31/492533.jpg",[COLOR yellow] O Hobbit: A Batalha dos Cinco Exércitos (2014) [/COLOR][COLOR gray] | OPENLOAD[/COLOR]
-plugin://plugin.video.playthis/?mode=play&player=false&path=https://openload.co/f/u1ggtnMQhuY/
+plugin://plugin.video.playthis/?mode=p 
